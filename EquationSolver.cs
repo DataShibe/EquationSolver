@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace EquationSolver
 {
-    class MainClass
+    class EquationSolver
     {
         public static void Main(string[] args)
         {
